@@ -17,7 +17,8 @@ What’s Inside
 
 ---
 
-Why This Exists
+Why This Exists?
+
 Because everyone starts somewhere. I did too.  
 Let’s learn the basics, one silly-sounding structure at a time.
 
