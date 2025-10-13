@@ -56,6 +56,3 @@ Let’s make DSA chill again.
 ### Author
 **Aaryan Vinod Kumar**  
 Engineering Student @ NSUT | Formula 1, Machines, and Making DSA Actually Understandable
-
-
-## Folder Structure
