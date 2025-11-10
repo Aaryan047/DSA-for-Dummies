@@ -1,11 +1,11 @@
 # DSA for Dummies | Beginner-Friendly Data Structures by Aaryan Vinod Kumar
 
-Welcome to **DSA for Dummies** — a no-nonsense, beginner-friendly collection where I break down Data Structures like you're five (but slightly more capable with a keyboard).
+Welcome to **DSA for Dummies** - a no-nonsense, beginner-friendly collection where I break down Data Structures like you're five (but slightly more capable with a keyboard).
 
 ---
 
 ## What’s This Repo About
-This repository is my personal documentation of **Data Structures and Algorithms** — built from scratch, explained in plain English, and backed by C++ implementations.
+This repository is my personal documentation of **Data Structures and Algorithms** - built from scratch, explained in plain English, and backed by C++ implementations.
 
 If you’re:
 - Confused by terms like “Linked List” and “Binary Tree”
@@ -18,7 +18,7 @@ Then this repo’s for you.
 
 ## What’s Inside
 - PDF notes that are concise, well-structured, and easy to revise  
-- C++ code samples — commented and example-driven (coming soon or already included if applicable)  
+- C++ code samples - commented and example-driven (coming soon or already included if applicable)  
 - Setup guides for Windows and Mac (compiler, VS Code setup, etc.)  
 - Organized by topic:
   - Arrays  
@@ -30,7 +30,7 @@ Then this repo’s for you.
 ---
 
 ## Why This Exists
-Because everyone starts somewhere — and I did too.  
+Because everyone starts somewhere - and I did too.  
 This repo is my way of simplifying what most people overcomplicate. It’s designed to help others learn the logic, not just memorize syntax.
 
 ---
